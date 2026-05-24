@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @1565gfd
 - 👀 I’m interested in aviation, spotting
 - 🌱 I’m currently learning с++ and HTTPS
-- 📫 How to reach me: prowider2023@yandex.ru , prowiderik@gmail.com
 - ⚡ Fun fact: i love cookies
 
 <!---
